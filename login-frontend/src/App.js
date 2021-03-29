@@ -51,7 +51,7 @@ export class App extends Component {
         handleUserLogout={this.handleUserLogout}
       />
     </>
-    )
+    );
   }
 }
 
